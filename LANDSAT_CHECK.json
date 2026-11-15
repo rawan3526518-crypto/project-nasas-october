@@ -1,0 +1,13 @@
+{
+  "scene_id": "LC09_L2SP_177041_20251225_02_T1",
+  "observed_at": "2025-12-25T08:31:15.670239Z",
+  "fetched_at": "2026-11-15T11:01:59.207275+00:00",
+  "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+  "mean_ndvi": 0.11054345965385437,
+  "valid_pixels": 288,
+  "field_pixels": 288,
+  "valid_fraction": 1.0,
+  "resolution_m": 30.0,
+  "method": "QA masked field-pixel mean of scaled (NIR-Red)/(NIR+Red)",
+  "limitations": "Clear-pixel mean only; not nutrient/soil diagnosis or crop identification."
+}
